@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Famisalud</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Categorias</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="title_profile">Perfil</string>
+</resources>
